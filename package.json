@@ -1,0 +1,27 @@
+{
+  "name": "npm-use-localstorage",
+  "version": "1.0.1",
+  "description": "custom hook to get and set localstorage",
+  "main": "useLocalStorage.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naufilshaikh09/npm-use-localstorage.git"
+  },
+  "author": "Naufil Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naufilshaikh09/rnpm-use-localstorage/issues"
+  },
+  "homepage": "https://github.com/naufilshaikh09/npm-use-localstorage#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "parcel": "^2.8.2"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
